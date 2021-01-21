@@ -1,0 +1,92 @@
+
+body{
+  text-align: center;
+  margin: 0px;
+}
+.one{
+  background-image: url("main image.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 50vw;
+
+}
+.two{
+  padding: 100px;
+}
+.three{
+  padding: 100px;
+}
+.four{
+    padding: 100px;
+
+}
+.five{
+    padding: 100px;
+    background-color: #e1f4f3;
+}
+.a{
+  padding: 50px;
+}
+.b{
+  padding: 50px;
+}
+h1{
+  font-size: 40px;
+  color: #000000;
+  font-family: 'Russo One',sans-serif;
+}
+p{
+  font-size: 20px;
+  color: #000000;
+  letter-spacing: 1px;
+  font-family: 'Quicksand',sans-serif;
+}
+h2{
+  font-size: 30px;
+  color: #333333;
+  font-family: 'Teko',sans-serif;
+}
+.mubashir{
+  padding-top: 200px;
+  font-size: 80px;
+  color: #FFFFFF;
+  margin: 0px;
+  font-family: 'Staatliches',cursive;
+  letter-spacing: 2px;
+  }
+
+.Programmer{
+font-family: 'Quicksand', sans-serif;
+margin-top: 5px;
+font-size: 30px;
+color: #FFFFFF;
+  }
+.space{
+letter-spacing: 5px;
+
+}
+button{
+  background-color: #706c61;
+  padding: 5px;
+  font-family: 'Staatliches',cursive;
+  size: 50px;
+}
+hr{
+  border-style: dotted;
+  width: 10%;
+  border-width: thick;
+  border-color: #706c61;
+  border-left-style: none;
+  border-top-style: none;
+  border-right-style: none;
+}
+.code{
+  float: right;
+  width: 20%;
+  margin-right: 200px;
+}
+  .design{
+    float: left;
+    width: 20%;
+    margin-left: 100px;
+  }
